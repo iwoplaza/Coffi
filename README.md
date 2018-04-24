@@ -15,3 +15,5 @@ To automate the innerworkings of the synth, controllers were created. You have 6
  - a Grain ADS envelope - this is a variantion on the ADSR setup, since it only has Attack/Decay/Sustain, removing Release from the equation. This envelope is used to control the gain of each individual grain through it's lifetime.
  - 4 custom controllers - these are user-created controllers that can be drawn inside the UI, and aren't used internally.
  Each of these 6 controllers can, additionally to their original use, be linked (routed) into most of the synth's parameters.
+
+![alt-text](https://i.gyazo.com/19e32bd224acd5d72551b8dd38817f50.gif "Linking showcase")
