@@ -9,7 +9,7 @@
     </author>
   </authors>
   <packs>
-    <pack name="Flower Atmos">
+    <pack key="flower-atmos" name="Flower Atmos">
       <authors>
         <author key="ivesiris"></author>
       </authors>
