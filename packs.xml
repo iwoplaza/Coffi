@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+  <authors>
+    <author key="ivesiris"
+            name="IVES' IRIS"
+            banner_url="https://www.vets4pets.com/siteassets/species/dog/dog-on-lead-looking-up-at-camera.jpg?w=585&scale=down"
+            avatar_url="https://i.insider.com/5b22bda45e48ec22008b46b5?width=1080&format=jpeg">
+    </author>
+  </authors>
+  <packs>
+    <pack name="Flower Atmos">
+      <authors>
+        <author key="ivesiris"></author>
+      </authors>
+    </pack>
+  </packs>
+</root>
