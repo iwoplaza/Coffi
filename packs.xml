@@ -4,12 +4,12 @@
   <authors>
     <author key="ivesiris"
             name="IVES' IRIS"
-            banner_url="https://www.vets4pets.com/siteassets/species/dog/dog-on-lead-looking-up-at-camera.jpg?w=585&amp;scale=down"
-            avatar_url="https://i.insider.com/5b22bda45e48ec22008b46b5?width=1080&amp;format=jpeg">
+            bannerUrl="https://www.vets4pets.com/siteassets/species/dog/dog-on-lead-looking-up-at-camera.jpg?w=585&amp;scale=down"
+            avatarUrl="https://i.insider.com/5b22bda45e48ec22008b46b5?width=1080&amp;format=jpeg">
     </author>
   </authors>
   <packs>
-    <pack key="flower-atmos" name="Flower Atmos">
+    <pack key="flower-atmos" name="Flower Atmos" downloadUrl="https://www.dropbox.com/s/jh0zn7k3gymem3v/ivesiris-whirlpool.zip?dl=1">
       <authors>
         <author key="ivesiris"></author>
       </authors>
