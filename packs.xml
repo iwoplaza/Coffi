@@ -10,7 +10,10 @@
     </author>
   </authors>
   <packs>
-    <pack key="flower-atmos" name="Flower Atmos" downloadUrl="https://www.dropbox.com/s/jh0zn7k3gymem3v/ivesiris-whirlpool.zip?dl=1">
+    <pack key="flower-atmos"
+          name="Flower Atmos"
+          thumbnailUrl="https://i.insider.com/5b22bda45e48ec22008b46b5?width=1080&amp;format=jpeg"
+          downloadUrl="https://www.dropbox.com/s/jh0zn7k3gymem3v/ivesiris-whirlpool.zip?dl=1">
       <authors>
         <author key="ivesiris"></author>
       </authors>
